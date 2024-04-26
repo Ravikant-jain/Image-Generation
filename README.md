@@ -7,7 +7,7 @@ This project implements a Variational Autoencoder (VAE), a sophisticated generat
 The VAE is trained on a dataset comprising approximately 20,000 anime faces. This dataset enables the model to learn diverse facial features and styles specific to anime, facilitating the generation of new images that are stylistically consistent with the training data.
 
 ## Model Architecture
-![VAE Model Architecture](Images\Archi.png)
+![VAE Model Architecture](https://github.com/Ravikant-jain/Image-Generation/blob/main/Images/Archi.png?raw=true)
 
 The architecture of our VAE consists of three key components:
 
