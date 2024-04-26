@@ -26,8 +26,8 @@ In our case, the model was not trained for a sufficient number of epochs to achi
 ### Final Output Examples
 Despite the limited number of training epochs due to computational constraints, the model was able to generate recognizable anime faces. Below are examples of the outputs, which, while not perfect, illustrate the potential of the model with further training.
 
-![Output Image 1](Images\1.png)
-![Output Image 2](Images\2.png)
+![Output Image 1](https://github.com/Ravikant-jain/Image-Generation/blob/main/Images/1.png?raw=true)
+![Output Image 2](https://github.com/Ravikant-jain/Image-Generation/blob/main/Images/2.png?raw=true)
 
 
 ## How It Works
